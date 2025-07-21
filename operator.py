@@ -1,5 +1,5 @@
-a = 5
-b = 2
+a = 50
+b = 20
 # Arithmetic operators
 print(a + b)
 print(a - b)    
