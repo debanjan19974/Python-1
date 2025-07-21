@@ -1,0 +1,21 @@
+a = 5
+b = 2
+# Arithmetic operators
+print(a + b)
+print(a - b)    
+print(a * b)
+print(a / b)
+print(a % b)
+print(a ** b)
+print(a // b)
+# Comparison operators
+print(a > b)
+print(a < b)
+print(a >= b)   
+print(a <= b)
+print(a == b)
+print(a != b)
+# Logical operators
+print(a and b)
+print(a or b)
+print(not a)
